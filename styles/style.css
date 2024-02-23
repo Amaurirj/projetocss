@@ -91,7 +91,7 @@ body {
     color: #f6f6f6;
     font-family: var(--fonte-secundaria);
 }
-.apresentacao__links__links:hover {
+.apresentacao__links__navegacao:hover {
     cursor: pointer;
     background-color: var(--cor-hover);
 }
